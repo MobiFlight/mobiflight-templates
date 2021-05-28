@@ -26,6 +26,5 @@ We have experimented with some 3D printed button caps, and while the actual cons
 
 ![image](https://user-images.githubusercontent.com/2587818/119947021-ef465000-bf9f-11eb-8c3e-73d43bf00b48.png)
 
-Contributions and Development
-
+## How to Contribute?
 This is a work in progress and contributions for the file are welcome - though since the template is one big SVG file, simple pull requests might not work as well as with code. My current thought is that if you would like to contribute for example a button or other panel hole / marking element to the template, make a copy of the file, delete everything else than your contribution, so that the additional thing is the only thing in the file, with everything on their respective layers. I think that might work, let's see.

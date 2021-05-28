@@ -1,5 +1,7 @@
 # Flight Simulator panel design template
 
+![image](https://user-images.githubusercontent.com/2587818/119951371-8b725600-bfa4-11eb-8002-0fe23cdbc718.png)
+
 Many aircraft cockpit panels are mounted with quick lock fasteners named after its inventor William Dzus. Many aircraft and equipment manufacturers follow the [MS25212C specification](http://everyspec.com/MS-Specs/MS2/MS25000-MS25999/MS25212C_42008/) for panel dimensions and mounting holes, and thus many planes have the same mounting hole pattern on their pedestal and overhead panel structures. This template aims to provide useful design files as a starting point for creating simulator panels. Additionally it documents some ideas for constructing them using acrylic sheets, basic tooling and a 3D printer.
 
 ![image](https://user-images.githubusercontent.com/2587818/119943882-49ddad00-bf9c-11eb-83cf-31caa491c414.png)

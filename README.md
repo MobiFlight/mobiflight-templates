@@ -12,11 +12,15 @@ This template is born from the collaborative design and brainstorming on the [Mo
 
 ## The Template 
 
-The template is organized in three main layers: Lower layer that is the mounting plate, upper layer that is fastened on top of it and has those familiar cutouts for the Dzus fasteners, and a layer for button caps.
+The template is organized in three main layers: Lower layer that is the mounting plate, upper layer that is fastened on top of it and has those familiar cutouts for the Dzus fasteners, and a layer for button caps. 
+
+To use the template, make a copy, select and copy the size of panel you need into the main document area (where the example panel is) and delete the other panel templates and stuff once you are done with your design. You can then save and cut one layer at a time. The layers are as follows, ordered from bottom to top:
+
+The example panel above has the bottom plate made from clear 2mm acrylic sheet, and the top is 3mm white acrylic. The actual aircraft panels are much thicker, but most affordable laser cutters (you need a CO2 laser for cutting acrylic sheet!) work much better with 3mm, and in practice it works and looks fine. But keep this in mind if you intend to mix real parts with the panels you build yourself.
 
 ### Button designs and ideas
 
-We have experimented with some 3D printed button caps, and while the actual construction depends on how you plan to construct the stuff behind your panels, one possible approach is to use 10mm nylon standoffs and M3 machine screws to mount a printed circuit board behind the panel (hence the M3 sized holes in the inside area of some panel templates). The switches and leds are then mounted on that PCB, and simple tactile push buttons can be used with a 3D printed button cap. We have also experimented cutting and engraving button labels on clear acrylic sheet that is painted black on the reverse side, with the labels engraved on the paint with laser or CNC. These button cap designs are part of the template, but they may evolve, as actual panels with them are being built. Also 3D printed button caps will be included.
+We have experimented with some 3D printed button caps, and while the actual construction depends on how you plan to construct the stuff behind your panels, one possible approach is to use 10mm nylon standoffs and M3 machine screws to mount a printed circuit board behind the panel (hence the M3 sized holes in the inside area of some panel templates). The switches and leds are then mounted on that PCB, and simple tactile push buttons can be used with a 3D printed button cap. We have also experimented cutting and engraving button labels on clear acrylic sheet that is painted black on the reverse side, with the labels engraved on the paint with laser or CNC. These button cap designs are part of the template, but they may evolve, as actual panels with them are being built.
 
 ![image](https://user-images.githubusercontent.com/2587818/119947021-ef465000-bf9f-11eb-8c3e-73d43bf00b48.png)
 

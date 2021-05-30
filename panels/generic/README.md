@@ -1,0 +1,1 @@
+# Generic flight simulation panels

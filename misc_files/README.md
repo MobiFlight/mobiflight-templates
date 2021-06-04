@@ -12,7 +12,7 @@ works nicely as a light diffuser for the text too.
 #### The finished button:
 ![image](https://user-images.githubusercontent.com/2587818/120824036-b4748700-c560-11eb-8a9f-6544af22138c.png)
 
-#### The 3d printed part:
+#### The 3d printed part and the square "lens":
 ![image](https://user-images.githubusercontent.com/2587818/120824662-53997e80-c561-11eb-8cc0-6400c9c45c01.png)
 
 The button and leds work great on the 0.1" / 2.54mm hole pattern.

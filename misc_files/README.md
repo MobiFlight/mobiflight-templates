@@ -6,7 +6,8 @@ The lighted square button used by many aircraft is manufactured by Korry Inc, an
 very high quality but also very very expensive. This is an attempt to replicate the pushbutton variant 
 (non-latching) [Korry 389](https://www.korry.com/Content/SiteDocuments/389%20Switch_Technical%20Guide.pdf) 
 with a Multimec 3FTH9 tactical pushbutton, two 3mm leds and a 3d printed cap that uses a laser-cut, painted & engraved
-top "lens" as the legend.
+top "lens" as the legend. The white text can be made visible with a blob white nail gel on the back side that 
+works nicely as a light diffuser for the text too.
 
 #### The finished button:
 ![image](https://user-images.githubusercontent.com/2587818/120824036-b4748700-c560-11eb-8a9f-6544af22138c.png)

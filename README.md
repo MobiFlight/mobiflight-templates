@@ -20,6 +20,10 @@ To use the template, make a copy, select and copy the size of panel you need int
 
 The example panel above has the bottom plate made from clear 2mm acrylic sheet, and the top is 3mm white acrylic. The actual aircraft panels are much thicker, but most affordable laser cutters (you need a CO2 laser for cutting acrylic sheet!) work much better with 3mm, and in practice it works and looks fine. But keep this in mind if you intend to mix real parts with the panels you build yourself.
 
+## Actual Panels
+
+The [mobiflight-panels](https://github.com/Mobiflight/mobiflight-panels) repository is a growing collection of openly licensed panel designs, and the idea is to combine them with pcb designs.
+
 ### Button designs and ideas
 
 We have experimented with some 3D printed button caps, and while the actual construction depends on how you plan to construct the stuff behind your panels, one possible approach is to use 10mm nylon standoffs and M3 machine screws to mount a printed circuit board behind the panel (hence the M3 sized holes in the inside area of some panel templates). The switches and leds are then mounted on that PCB, and simple tactile push buttons can be used with a 3D printed button cap. We have also experimented cutting and engraving button labels on clear acrylic sheet that is painted black on the reverse side, with the labels engraved on the paint with laser or CNC. These button cap designs are part of the template, but they may evolve, as actual panels with them are being built.

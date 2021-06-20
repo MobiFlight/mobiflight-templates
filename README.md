@@ -16,13 +16,23 @@ This template is born from the collaborative design and brainstorming on the [Mo
 
 ## The Template 
 
-The template is organized in layers: Lower layer that is the mounting plate with attachment holes that fit M5 screws, an upper light plate layerthat has those familiar cutouts around the fastener screws, and a separate layer for button caps and labels. It is useful to keep things separated on different layers, because you can later export each layer for cutting. When you select something and use _Edit > Duplicate_ on Inkscape, the elements are kept in their original layers, and you can just move the copy around with the arrow keys of your keyboard.
+The template is organized in layers: 
 
-To use the template, make a copy of the file, delete the example panel, select a correctly sized panel, and move it to the document page area. Select your panel, and open _File > Document Properties..._ and click _> Resize page to content..._ to make the document size match your selected panel exactly (by default it has a 2mm margin around).
+  * *Lower mounting plate layer* with attachment holes that fit M5 screws
+  * Light plate layer that has those familiar cutouts around the attachment screws, 
+  * A separate layer for button caps and labels. 
 
-The example panel above has the bottom plate made from clear 2mm acrylic sheet, and the light plate is 3mm white acrylic. The light plates on real aircraft are usually quite a bit thicker, but 3mm works and looks OK, so it is a compromise that seems to work OK. It also works much better with most common buttons and switches. But if you plan to mix your own panels with real or 3rd party sim panels, it's worth checking this. The template defines just the outline, so you can cut the plates from a sheet of any thickness.
+It is useful to keep things separated on different layers, so you can later export each layer for cutting by hiding the other layers from view. When you select something and use _Edit > Duplicate_ on Inkscape, the elements are kept in their original layers, and you can just move the copy around with the arrow keys of your keyboard. Note that while grouping can be useful for moving things around together, grouping items from several layers moves them all to the same layer, which you want to avoid in this case.
 
-The template itself is open source (even though it is not programming code) protected by a "share alike" license, which means that you are free to use it and create panels based on it, and even manufacture panels for others. But if you make changes or updates to the template, we ask that you contribute them back for the common good.
+## Basic construction
+
+The example panel above has the bottom plate made from clear 2mm acrylic sheet, and the light plate is 3mm white acrylic. The light plates on real aircraft are usually quite a bit thicker, but 3mm is a compromise that seems to work OK and still fits most common buttons and switches. But if you plan to mix your own panels with real or 3rd party sim panels, it's worth checking this. The template defines just the outline, so you can of course cut your plates from a sheet of any thickness.
+
+## License and Rights
+
+The template is open source, and created by Tuomas Kuosmanen (@tigert) with contributions from the Mobiflight community. 
+
+The template is open source (even though it is not programming code) protected by GPLv3 which is a "share alike" license. It means that you are free to use this and create panels based on it, and even manufacture panels for others. But if you make changes or updates to the template, we ask that you contribute them back for the common good. This note naturally us no substitute for the actual license, just an explanation, so see the license section of this github repo for more information.
 
 ## How to Contribute?
 

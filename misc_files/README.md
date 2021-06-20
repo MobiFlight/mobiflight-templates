@@ -12,4 +12,4 @@ Each thing added should have a link here for a wiki article describing it.
 
 ![image](https://user-images.githubusercontent.com/2587818/122672664-75d40300-d1d5-11eb-9fee-8cbc6ef0ec9b.png)
 
-[See the suitable components and hardware](https://github.com/Mobiflight/mobiflight-templates/wiki/02.-Useful-buttons,-switches-and-other-hardware) for the ALPS encoder it is made for.
+[See the suitable components and hardware Wiki page](https://github.com/Mobiflight/mobiflight-templates/wiki/02.-Useful-buttons,-switches-and-other-hardware) for the ALPS encoder it is made for.

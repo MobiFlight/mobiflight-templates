@@ -34,7 +34,7 @@ The example panel above has the bottom plate made from clear 2mm acrylic sheet, 
 
 The template is open source, and created by Tuomas Kuosmanen (@tigert) with contributions from the Mobiflight community. 
 
-The template is open source (even though it is not programming code) protected by GPLv3 which is a "share alike" license. It means that you are free to use this and create panels based on it, and even manufacture panels for others. But if you make changes or updates to the template, we ask that you contribute them back for the common good. This note naturally us no substitute for the actual license, just an explanation, so see the license section of this github repo for more information.
+The template is licensed with GPLv3 license, which is a share-alike license. It means that you are free to use this and create panels based on it, and even manufacture panels for others. But if you make changes or updates to the template, we ask that you contribute them back for the common good. This note naturally us no substitute for the actual license, just an explanation, so see the license section of this github repo for more information.
 
 ## How to Contribute?
 

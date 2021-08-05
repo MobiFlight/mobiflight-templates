@@ -5,7 +5,7 @@
    viewBox="0 0 150.25051 128.02539"
    version="1.1"
    id="svg14672"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2-dev (da2df6f, 2021-07-26)"
    sodipodi:docname="panel-template-mobiflight.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -275,11 +275,11 @@
      borderopacity="0.32156863"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="1574.1965"
-     inkscape:cy="359.74058"
+     inkscape:zoom="1"
+     inkscape:cx="1876.4999"
+     inkscape:cy="276.49999"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer12"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="2"
@@ -300,8 +300,8 @@
      inkscape:snap-center="false"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
      inkscape:snap-others="true"
@@ -331,7 +331,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8788,70 +8787,102 @@
          transform="translate(358.44472,-45.070545)"><tspan
            x="2110.0872"
            y="399.79361"
-           id="tspan19773"><tspan
+           id="tspan8290"><tspan
              style="font-weight:600;font-stretch:normal;font-size:4.93889px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19771">BUTTON AND SWITCH TEMPLATES
+             id="tspan8288">BUTTON AND SWITCH TEMPLATES
 </tspan></tspan><tspan
            x="2110.0872"
            y="404.73252"
-           id="tspan19777"><tspan
+           id="tspan8294"><tspan
              style="font-weight:600;font-stretch:normal;font-size:4.93889px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19775">
+             id="tspan8292">
 </tspan></tspan><tspan
            x="2110.0872"
            y="408.8669"
-           id="tspan19779">Here are some predefined button &amp; label combinations to </tspan><tspan
+           id="tspan8298"><tspan
+             style="font-size:medium"
+             id="tspan8296">Here are some predefined button &amp; label combinations to </tspan></tspan><tspan
            x="2110.0872"
            y="412.79247"
-           id="tspan19781">speed up the panel making process. The template will also </tspan><tspan
+           id="tspan8302"><tspan
+             style="font-size:medium"
+             id="tspan8300">speed up the panel making process. The template will also </tspan></tspan><tspan
            x="2110.0872"
            y="416.71804"
-           id="tspan19783">have links to commonly used switches and other </tspan><tspan
+           id="tspan8306"><tspan
+             style="font-size:medium"
+             id="tspan8304">have links to commonly used switches and other </tspan></tspan><tspan
            x="2110.0872"
            y="420.6436"
-           id="tspan19785">components that fit these holes and button cap designs.
-</tspan><tspan
+           id="tspan8310"><tspan
+             style="font-size:medium"
+             id="tspan8308">components that fit these holes and button cap designs.
+</tspan></tspan><tspan
            x="2110.0872"
            y="424.56917"
-           id="tspan19787">
-</tspan><tspan
+           id="tspan8314"><tspan
+             style="font-size:medium"
+             id="tspan8312">
+</tspan></tspan><tspan
            x="2110.0872"
            y="428.49474"
-           id="tspan19789">Many button types are constructed from a 3D printed switch </tspan><tspan
+           id="tspan8318"><tspan
+             style="font-size:medium"
+             id="tspan8316">Many button types are constructed from a 3D printed switch </tspan></tspan><tspan
            x="2110.0872"
            y="432.42031"
-           id="tspan19791">body, and a fitting button cap with the engraved text label, </tspan><tspan
+           id="tspan8322"><tspan
+             style="font-size:medium"
+             id="tspan8320">body, and a fitting button cap with the engraved text label, </tspan></tspan><tspan
            x="2110.0872"
            y="436.34587"
-           id="tspan19793">cut out of 0.8mm engraving sheet. The cap is simply </tspan><tspan
+           id="tspan8326"><tspan
+             style="font-size:medium"
+             id="tspan8324">cut out of 0.8mm engraving sheet. The cap is simply </tspan></tspan><tspan
            x="2110.0872"
            y="440.27144"
-           id="tspan19795">superglued on the top of the 3D printed button.
-</tspan><tspan
+           id="tspan8330"><tspan
+             style="font-size:medium"
+             id="tspan8328">superglued on the top of the 3D printed button.
+</tspan></tspan><tspan
            x="2110.0872"
            y="444.19701"
-           id="tspan19797">
-</tspan><tspan
+           id="tspan8334"><tspan
+             style="font-size:medium"
+             id="tspan8332">
+</tspan></tspan><tspan
            x="2110.0872"
            y="448.12258"
-           id="tspan19801"><tspan
-   style="font-weight:600;-inkscape-font-specification:'Bahnschrift Semi-Bold Semi-Condensed'"
-   id="tspan19799">NOTE</tspan>: These things are on several layers - bottom acrylic, </tspan><tspan
+           id="tspan8340"><tspan
+             style="font-weight:600;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Bold Semi-Condensed'"
+             id="tspan8336">NOTE</tspan><tspan
+             style="font-size:medium"
+             id="tspan8338">: These things are on several layers - bottom acrylic, </tspan></tspan><tspan
            x="2110.0872"
            y="452.04815"
-           id="tspan19803">top acrylic (panel sheets) and also the button cap engraving </tspan><tspan
+           id="tspan8344"><tspan
+             style="font-size:medium"
+             id="tspan8342">top acrylic (panel sheets) and also the button cap engraving </tspan></tspan><tspan
            x="2110.0872"
            y="455.97371"
-           id="tspan19805">layer. DUPLICATING (Ctrl-D) will keep it this way, but if you </tspan><tspan
+           id="tspan8348"><tspan
+             style="font-size:medium"
+             id="tspan8346">layer. DUPLICATING (Ctrl-D) will keep it this way, but if you </tspan></tspan><tspan
            x="2110.0872"
            y="459.89928"
-           id="tspan19807">copy &amp; paste or group them, they end up in the same layer, </tspan><tspan
+           id="tspan8352"><tspan
+             style="font-size:medium"
+             id="tspan8350">copy &amp; paste or group them, they end up in the same layer, </tspan></tspan><tspan
            x="2110.0872"
            y="463.82485"
-           id="tspan19809">which is not what you want for easy separation of layers </tspan><tspan
+           id="tspan8356"><tspan
+             style="font-size:medium"
+             id="tspan8354">which is not what you want for easy separation of layers </tspan></tspan><tspan
            x="2110.0872"
            y="467.75042"
-           id="tspan19811">when cutting the panel.</tspan></text>
+           id="tspan8360"><tspan
+             style="font-size:medium"
+             id="tspan8358">when cutting the panel.</tspan></tspan></text>
     </g>
     <g
        id="g15493"
@@ -8875,87 +8906,131 @@
          transform="translate(37.041124,-46.000697)"><tspan
            x="2110.0872"
            y="399.79361"
-           id="tspan19815"><tspan
+           id="tspan8364"><tspan
              style="font-weight:600;font-stretch:normal;font-size:4.93889px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19813">TEXT AND FONTS
+             id="tspan8362">TEXT AND FONTS
 </tspan></tspan><tspan
            x="2110.0872"
            y="404.73252"
-           id="tspan19819"><tspan
+           id="tspan8368"><tspan
              style="font-weight:600;font-stretch:normal;font-size:4.93889px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19817">
+             id="tspan8366">
 </tspan></tspan><tspan
            x="2110.0872"
            y="408.8669"
-           id="tspan19821">This template uses </tspan><tspan
+           id="tspan8372"><tspan
+             style="font-size:medium"
+             id="tspan8370">This template uses </tspan></tspan><tspan
            x="2110.0872"
            y="412.79247"
-           id="tspan19825"><tspan
-   style="font-weight:normal;-inkscape-font-specification:'Bahnschrift Semi-Condensed'"
-   id="tspan19823">Bahnschrift</tspan> font which is </tspan><tspan
+           id="tspan8378"><tspan
+             style="font-weight:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Condensed'"
+             id="tspan8374">Bahnschrift</tspan><tspan
+             style="font-size:medium"
+             id="tspan8376"> font which is </tspan></tspan><tspan
            x="2110.0872"
            y="416.71804"
-           id="tspan19827">included in Windows 10. 
-</tspan><tspan
+           id="tspan8382"><tspan
+             style="font-size:medium"
+             id="tspan8380">included in Windows 10. 
+</tspan></tspan><tspan
            x="2110.0872"
            y="420.6436"
-           id="tspan19829">
-</tspan><tspan
+           id="tspan8386"><tspan
+             style="font-size:medium"
+             id="tspan8384">
+</tspan></tspan><tspan
            x="2110.0872"
            y="424.56917"
-           id="tspan19831">This works well for </tspan><tspan
+           id="tspan8390"><tspan
+             style="font-size:medium"
+             id="tspan8388">This works well for </tspan></tspan><tspan
            x="2110.0872"
            y="428.49474"
-           id="tspan19833">cockpit panels because it </tspan><tspan
+           id="tspan8394"><tspan
+             style="font-size:medium"
+             id="tspan8392">cockpit panels because it </tspan></tspan><tspan
            x="2110.0872"
            y="432.42031"
-           id="tspan19835">is very clear and </tspan><tspan
+           id="tspan8398"><tspan
+             style="font-size:medium"
+             id="tspan8396">is very clear and </tspan></tspan><tspan
            x="2110.0872"
            y="436.34587"
-           id="tspan19837">readable, has good </tspan><tspan
+           id="tspan8402"><tspan
+             style="font-size:medium"
+             id="tspan8400">readable, has good </tspan></tspan><tspan
            x="2110.0872"
            y="440.27144"
-           id="tspan19839">legibility also when </tspan><tspan
+           id="tspan8406"><tspan
+             style="font-size:medium"
+             id="tspan8404">legibility also when </tspan></tspan><tspan
            x="2110.0872"
            y="444.19701"
-           id="tspan19841">engraved, and it </tspan><tspan
+           id="tspan8410"><tspan
+             style="font-size:medium"
+             id="tspan8408">engraved, and it </tspan></tspan><tspan
            x="2110.0872"
            y="448.12258"
-           id="tspan19843">resembles closely the </tspan><tspan
+           id="tspan8414"><tspan
+             style="font-size:medium"
+             id="tspan8412">resembles closely the </tspan></tspan><tspan
            x="2110.0872"
            y="452.04815"
-           id="tspan19845">fonts that are being used </tspan><tspan
+           id="tspan8418"><tspan
+             style="font-size:medium"
+             id="tspan8416">fonts that are being used </tspan></tspan><tspan
            x="2110.0872"
            y="455.97371"
-           id="tspan19847">in cockpits. 
-</tspan><tspan
+           id="tspan8422"><tspan
+             style="font-size:medium"
+             id="tspan8420">in cockpits. 
+</tspan></tspan><tspan
            x="2110.0872"
            y="459.89928"
-           id="tspan19849">
-</tspan><tspan
+           id="tspan8426"><tspan
+             style="font-size:medium"
+             id="tspan8424">
+</tspan></tspan><tspan
            x="2110.0872"
            y="463.82485"
-           id="tspan19851">Airbus uses a very similar </tspan><tspan
+           id="tspan8430"><tspan
+             style="font-size:medium"
+             id="tspan8428">Airbus uses a very similar </tspan></tspan><tspan
            x="2110.0872"
            y="467.75042"
-           id="tspan19853">font, but some Boeing </tspan><tspan
+           id="tspan8434"><tspan
+             style="font-size:medium"
+             id="tspan8432">font, but some Boeing </tspan></tspan><tspan
            x="2110.0872"
            y="471.67598"
-           id="tspan19855">panels (though not all) </tspan><tspan
+           id="tspan8438"><tspan
+             style="font-size:medium"
+             id="tspan8436">panels (though not all) </tspan></tspan><tspan
            x="2110.0872"
            y="475.60155"
-           id="tspan19859">use <tspan
-   style="font-weight:normal;-inkscape-font-specification:'Bahnschrift Semi-Condensed'"
-   id="tspan19857">Futura</tspan> which is not </tspan><tspan
+           id="tspan8446"><tspan
+             style="font-size:medium"
+             id="tspan8440">use </tspan><tspan
+             style="font-weight:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Condensed'"
+             id="tspan8442">Futura</tspan><tspan
+             style="font-size:medium"
+             id="tspan8444"> which is not </tspan></tspan><tspan
            x="2110.0872"
            y="479.52712"
-           id="tspan19861">freely available, so sadly </tspan><tspan
+           id="tspan8450"><tspan
+             style="font-size:medium"
+             id="tspan8448">freely available, so sadly </tspan></tspan><tspan
            x="2110.0872"
            y="483.45269"
-           id="tspan19863">we cannot include it in </tspan><tspan
+           id="tspan8454"><tspan
+             style="font-size:medium"
+             id="tspan8452">we cannot include it in </tspan></tspan><tspan
            x="2110.0872"
            y="487.37825"
-           id="tspan19865">this template.</tspan></text>
+           id="tspan8458"><tspan
+             style="font-size:medium"
+             id="tspan8456">this template.</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -9088,204 +9163,204 @@
          transform="matrix(0.73172026,0,0,0.73172026,501.12605,57.107837)"><tspan
            x="1781.902"
            y="317.18335"
-           id="tspan19869"><tspan
+           id="tspan8462"><tspan
              style="font-weight:600;font-stretch:normal;font-size:14.1111px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19867">Panel templates for flight simulator projects
+             id="tspan8460">Panel templates for flight simulator projects
 </tspan></tspan><tspan
            x="1781.902"
            y="326.89719"
-           id="tspan19873"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19871">
+           id="tspan8466"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8464">
 </tspan></tspan><tspan
            x="1781.902"
            y="335.46976"
-           id="tspan19877"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19875">These panel templates lets you quickly design consistent simulated aircraft cockpit </tspan></tspan><tspan
+           id="tspan8470"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8468">These panel templates lets you quickly design consistent simulated aircraft cockpit </tspan></tspan><tspan
            x="1781.902"
            y="344.04233"
-           id="tspan19881"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19879">panels using a CO2 laser cutter or CNC router and acrylic sheets. Combined with </tspan></tspan><tspan
+           id="tspan8474"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8472">panels using a CO2 laser cutter or CNC router and acrylic sheets. Combined with </tspan></tspan><tspan
            x="1781.902"
            y="352.6149"
-           id="tspan19885"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19883">electronic circuit board designs it is possible to build affordable flight simulator add-on-</tspan></tspan><tspan
+           id="tspan8478"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8476">electronic circuit board designs it is possible to build affordable flight simulator add-on-</tspan></tspan><tspan
            x="1781.902"
            y="361.18747"
-           id="tspan19889"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19887">panels for both entertainment and training purposes. The designs utilize MobiFlight, free </tspan></tspan><tspan
+           id="tspan8482"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8480">panels for both entertainment and training purposes. The designs utilize MobiFlight, free </tspan></tspan><tspan
            x="1781.902"
            y="369.76004"
-           id="tspan19893"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19891">and open source software that utilizes common Arduino boards and lets you connect </tspan></tspan><tspan
+           id="tspan8486"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8484">and open source software that utilizes common Arduino boards and lets you connect </tspan></tspan><tspan
            x="1781.902"
            y="378.33261"
-           id="tspan19897"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19895">functional buttons, leds and switches to flight simulator software. 
+           id="tspan8490"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8488">functional buttons, leds and switches to flight simulator software. 
 </tspan></tspan><tspan
            x="1781.902"
            y="386.90518"
-           id="tspan19901"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19899">
+           id="tspan8494"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8492">
 </tspan></tspan><tspan
            x="1781.902"
            y="395.47775"
-           id="tspan19905"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19903">These panels use the DZUS mounting rail spacing for holes and panel sizes, but contain </tspan></tspan><tspan
+           id="tspan8498"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8496">These panels use the DZUS mounting rail spacing for holes and panel sizes, but contain </tspan></tspan><tspan
            x="1781.902"
            y="404.05032"
-           id="tspan19909"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19907">M4 sized holes for screws for practical reasons.
+           id="tspan8502"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8500">M4 sized holes for screws for practical reasons.
 </tspan></tspan><tspan
            x="1781.902"
            y="412.62289"
-           id="tspan19913"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19911">
+           id="tspan8506"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8504">
 </tspan></tspan><tspan
            x="1781.902"
            y="421.19546"
-           id="tspan19919"><tspan
-             style="font-weight:600;-inkscape-font-specification:'Bahnschrift Semi-Bold Semi-Condensed'"
-             id="tspan19915">These panels consist of two layers:</tspan><tspan
-             style="display:inline;opacity:1"
-             id="tspan19917"> bottom clear acrylic sheet, and top white acrylic sheet. </tspan></tspan><tspan
+           id="tspan8512"><tspan
+             style="font-weight:600;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Bold Semi-Condensed'"
+             id="tspan8508">These panels consist of two layers:</tspan><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8510"> bottom clear acrylic sheet, and top white acrylic sheet. </tspan></tspan><tspan
            x="1781.902"
            y="429.76804"
-           id="tspan19923"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19921">There is also a paint mask template for the lower layer (since the edges and mounting </tspan></tspan><tspan
+           id="tspan8516"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8514">There is also a paint mask template for the lower layer (since the edges and mounting </tspan></tspan><tspan
            x="1781.902"
            y="438.34061"
-           id="tspan19927"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19925">hole areas need to be painted, but the center needs to be transparent so that the </tspan></tspan><tspan
+           id="tspan8520"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8518">hole areas need to be painted, but the center needs to be transparent so that the </tspan></tspan><tspan
            x="1781.902"
            y="446.91318"
-           id="tspan19931"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19929">backlighting can shine through. Those blue lines frame the inner clear area, thus you can </tspan></tspan><tspan
+           id="tspan8524"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8522">backlighting can shine through. Those blue lines frame the inner clear area, thus you can </tspan></tspan><tspan
            x="1781.902"
            y="455.48575"
-           id="tspan19935"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19933">cover the lower panel completely with painters tape, vector cut the tape and remove the </tspan></tspan><tspan
+           id="tspan8528"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8526">cover the lower panel completely with painters tape, vector cut the tape and remove the </tspan></tspan><tspan
            x="1781.902"
            y="464.05832"
-           id="tspan19939"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19937">center area.
+           id="tspan8532"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8530">center area.
 </tspan></tspan><tspan
            x="1781.902"
            y="472.63089"
-           id="tspan19943"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19941">
+           id="tspan8536"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8534">
 </tspan></tspan><tspan
            x="1781.902"
            y="481.20346"
-           id="tspan19947"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19945">If you use K40 Whisperer to do the laser cutting, you can export a particular layer for </tspan></tspan><tspan
+           id="tspan8540"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8538">If you use K40 Whisperer to do the laser cutting, you can export a particular layer for </tspan></tspan><tspan
            x="1781.902"
            y="489.77603"
-           id="tspan19951"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19949">cutting by hiding all other layers before saving; K40 Whisperer only loads the visible layer.
+           id="tspan8544"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8542">cutting by hiding all other layers before saving; K40 Whisperer only loads the visible layer.
 </tspan></tspan><tspan
            x="1781.902"
            y="498.3486"
-           id="tspan19955"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19953">
+           id="tspan8548"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8546">
 </tspan></tspan><tspan
            x="1781.902"
            y="508.53616"
-           id="tspan19961"><tspan
+           id="tspan8554"><tspan
              style="font-weight:600;font-stretch:normal;font-size:10.6067px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-             id="tspan19957">How to make even larger panels?</tspan><tspan
-             style="display:inline;opacity:1"
-             id="tspan19959">
+             id="tspan8550">How to make even larger panels?</tspan><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8552">
 </tspan></tspan><tspan
            x="1781.902"
            y="517.52786"
-           id="tspan19965"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19963">
+           id="tspan8558"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8556">
 </tspan></tspan><tspan
            x="1781.902"
            y="526.1004"
-           id="tspan19969"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19967">These are the most common sizes, for larger panels you need to pick an existing panel </tspan></tspan><tspan
+           id="tspan8562"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8560">These are the most common sizes, for larger panels you need to pick an existing panel </tspan></tspan><tspan
            x="1781.902"
            y="534.67297"
-           id="tspan19973"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19971">with matching style and resize it. The width of the panels are the standard 5.75&quot; (5.365&quot; </tspan></tspan><tspan
+           id="tspan8566"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8564">with matching style and resize it. The width of the panels are the standard 5.75&quot; (5.365&quot; </tspan></tspan><tspan
            x="1781.902"
            y="543.24554"
-           id="tspan19977"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19975">hole to hole horizontally) and heights are incrementally growing within the hole pattern, 
+           id="tspan8570"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8568">hole to hole horizontally) and heights are incrementally growing within the hole pattern, 
 </tspan></tspan><tspan
            x="1781.902"
            y="551.81811"
-           id="tspan19981"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19979">
+           id="tspan8574"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8572">
 </tspan></tspan><tspan
            x="1781.902"
            y="560.39069"
-           id="tspan19985"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19983">When you resize, it helps to open Edit &gt; Preferences and set Behavior &gt; Steps: &quot;Arrow keys </tspan></tspan><tspan
+           id="tspan8578"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8576">When you resize, it helps to open Edit &gt; Preferences and set Behavior &gt; Steps: &quot;Arrow keys </tspan></tspan><tspan
            x="1781.902"
            y="568.96326"
-           id="tspan19989"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19987">move by&quot; to 0,3750 inches, that is the spacing of the Dzus rail holes. 
+           id="tspan8582"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8580">move by&quot; to 0,3750 inches, that is the spacing of the Dzus rail holes. 
 </tspan></tspan><tspan
            x="1781.902"
            y="577.53583"
-           id="tspan19993"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19991">
+           id="tspan8586"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8584">
 </tspan></tspan><tspan
            x="1781.902"
            y="586.1084"
-           id="tspan19997"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19995">Then you need to select each part of the panel separately, use the &quot;node edit&quot; tool and </tspan></tspan><tspan
+           id="tspan8590"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8588">Then you need to select each part of the panel separately, use the &quot;node edit&quot; tool and </tspan></tspan><tspan
            x="1781.902"
            y="594.68097"
-           id="tspan20001"><tspan
-             style="display:inline;opacity:1"
-             id="tspan19999">&quot;rubber band select&quot; nodes on the other end and use cursor keys to move all those nodes </tspan></tspan><tspan
+           id="tspan8594"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8592">&quot;rubber band select&quot; nodes on the other end and use cursor keys to move all those nodes </tspan></tspan><tspan
            x="1781.902"
            y="603.25354"
-           id="tspan20005"><tspan
-             style="display:inline;opacity:1"
-             id="tspan20003">to the final size you want. Pay close attention that your selection &quot;splits&quot; the panel in a </tspan></tspan><tspan
+           id="tspan8598"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8596">to the final size you want. Pay close attention that your selection &quot;splits&quot; the panel in a </tspan></tspan><tspan
            x="1781.902"
            y="611.82611"
-           id="tspan20009"><tspan
-             style="display:inline;opacity:1"
-             id="tspan20007">straight edge, so you don't deform the curved parts. Do this to the back plate, the backlight </tspan></tspan><tspan
+           id="tspan8602"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8600">straight edge, so you don't deform the curved parts. Do this to the back plate, the backlight </tspan></tspan><tspan
            x="1781.902"
            y="620.39868"
-           id="tspan20013"><tspan
-             style="display:inline;opacity:1"
-             id="tspan20011">plate (the smoothly curved one) and finally the mounting holes.</tspan></tspan></text>
+           id="tspan8606"><tspan
+             style="font-size:medium;display:inline;opacity:1"
+             id="tspan8604">plate (the smoothly curved one) and finally the mounting holes.</tspan></tspan></text>
       <image
          width="15.610417"
          height="16.502439"
@@ -9325,72 +9400,108 @@
            transform="matrix(0.73172026,0,0,0.73172026,815.17588,72.107965)"><tspan
              x="1781.902"
              y="317.18335"
-             id="tspan20017"><tspan
+             id="tspan8610"><tspan
                style="font-weight:600;font-stretch:normal;font-size:14.1111px;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-               id="tspan20015">IF YOU DON'T LIKE INSTRUCTIONS, READ THIS
+               id="tspan8608">IF YOU DON'T LIKE INSTRUCTIONS, READ THIS
 </tspan></tspan><tspan
              x="1781.902"
              y="326.89719"
-             id="tspan20019">
-</tspan><tspan
+             id="tspan8614"><tspan
+               style="font-size:medium"
+               id="tspan8612">
+</tspan></tspan><tspan
              x="1781.902"
              y="335.46976"
-             id="tspan20023"><tspan
-   style="font-weight:bold;font-stretch:normal;-inkscape-font-specification:'Bahnschrift Bold'"
-   id="tspan20021">ONE: </tspan>Open this file in INKSCAPE (www.inkscape.org). If you use Illustrator or something </tspan><tspan
+             id="tspan8620"><tspan
+               style="font-weight:bold;font-stretch:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Bold'"
+               id="tspan8616">ONE: </tspan><tspan
+               style="font-size:medium"
+               id="tspan8618">Open this file in INKSCAPE (www.inkscape.org). If you use Illustrator or something </tspan></tspan><tspan
              x="1781.902"
              y="344.04233"
-             id="tspan20025">else, it tends to do some weird clipping stuff and things will just be messed up. This is a </tspan><tspan
+             id="tspan8624"><tspan
+               style="font-size:medium"
+               id="tspan8622">else, it tends to do some weird clipping stuff and things will just be messed up. This is a </tspan></tspan><tspan
              x="1781.902"
              y="352.6149"
-             id="tspan20027">template made specifically for laser cutting, so stay away from any other tool. Inkscape is </tspan><tspan
+             id="tspan8628"><tspan
+               style="font-size:medium"
+               id="tspan8626">template made specifically for laser cutting, so stay away from any other tool. Inkscape is </tspan></tspan><tspan
              x="1781.902"
              y="361.18747"
-             id="tspan20029">open source and works for Linux, Windows and Mac. It's not worth it trying to edit this with </tspan><tspan
+             id="tspan8632"><tspan
+               style="font-size:medium"
+               id="tspan8630">open source and works for Linux, Windows and Mac. It's not worth it trying to edit this with </tspan></tspan><tspan
              x="1781.902"
              y="369.76004"
-             id="tspan20031">something else since we want this to be usable for everyone, regardless of whether they </tspan><tspan
+             id="tspan8636"><tspan
+               style="font-size:medium"
+               id="tspan8634">something else since we want this to be usable for everyone, regardless of whether they </tspan></tspan><tspan
              x="1781.902"
              y="378.33261"
-             id="tspan20033">can afford expensive software.
-</tspan><tspan
+             id="tspan8640"><tspan
+               style="font-size:medium"
+               id="tspan8638">can afford expensive software.
+</tspan></tspan><tspan
              x="1781.902"
              y="386.90518"
-             id="tspan20035">
-</tspan><tspan
+             id="tspan8644"><tspan
+               style="font-size:medium"
+               id="tspan8642">
+</tspan></tspan><tspan
              x="1781.902"
              y="395.47775"
-             id="tspan20039"><tspan
-   style="font-weight:bold;font-stretch:normal;-inkscape-font-specification:'Bahnschrift Bold'"
-   id="tspan20037">TWO: Everything is organized in LAYERS </tspan>press Ctrl-Shift-L) to make it easy to </tspan><tspan
+             id="tspan8650"><tspan
+               style="font-weight:bold;font-stretch:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Bold'"
+               id="tspan8646">TWO: Everything is organized in LAYERS </tspan><tspan
+               style="font-size:medium"
+               id="tspan8648">press Ctrl-Shift-L) to make it easy to </tspan></tspan><tspan
              x="1781.902"
              y="404.05032"
-             id="tspan20041">separate things later when cutting the panel. This is why things are red and black, and </tspan><tspan
+             id="tspan8654"><tspan
+               style="font-size:medium"
+               id="tspan8652">separate things later when cutting the panel. This is why things are red and black, and </tspan></tspan><tspan
              x="1781.902"
              y="412.62289"
-             id="tspan20043">this is why there are those varying sized circles and rectangles around everything. Those </tspan><tspan
+             id="tspan8658"><tspan
+               style="font-size:medium"
+               id="tspan8656">this is why there are those varying sized circles and rectangles around everything. Those </tspan></tspan><tspan
              x="1781.902"
              y="421.19546"
-             id="tspan20045">are various sized holes for each layer of the panel. When you copy the switch templates, </tspan><tspan
+             id="tspan8662"><tspan
+               style="font-size:medium"
+               id="tspan8660">are various sized holes for each layer of the panel. When you copy the switch templates, </tspan></tspan><tspan
              x="1781.902"
              y="429.76804"
-             id="tspan20049"><tspan
-   style="font-weight:600;font-stretch:normal;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-   id="tspan20047">do NOT cut and paste</tspan>, as this drops them all in the selected layer. Instead do Edit -&gt; </tspan><tspan
+             id="tspan8668"><tspan
+               style="font-weight:600;font-stretch:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
+               id="tspan8664">do NOT cut and paste</tspan><tspan
+               style="font-size:medium"
+               id="tspan8666">, as this drops them all in the selected layer. Instead do Edit -&gt; </tspan></tspan><tspan
              x="1781.902"
              y="438.34061"
-             id="tspan20051">Duplicate (Ctrl-D) and move the new copy to your panel with cursor keys or using the </tspan><tspan
+             id="tspan8672"><tspan
+               style="font-size:medium"
+               id="tspan8670">Duplicate (Ctrl-D) and move the new copy to your panel with cursor keys or using the </tspan></tspan><tspan
              x="1781.902"
              y="446.91318"
-             id="tspan20053">mouse. It often helps to move it first to a clear area with the arrow keys so you can select </tspan><tspan
+             id="tspan8676"><tspan
+               style="font-size:medium"
+               id="tspan8674">mouse. It often helps to move it first to a clear area with the arrow keys so you can select </tspan></tspan><tspan
              x="1781.902"
              y="455.48575"
-             id="tspan20057">easier. Also <tspan
-   style="font-weight:600;font-stretch:normal;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
-   id="tspan20055">do NOT group things</tspan>. It would be convenient, but groups also move things </tspan><tspan
+             id="tspan8684"><tspan
+               style="font-size:medium"
+               id="tspan8678">easier. Also </tspan><tspan
+               style="font-weight:600;font-stretch:normal;font-size:medium;-inkscape-font-specification:'Bahnschrift Semi-Bold'"
+               id="tspan8680">do NOT group things</tspan><tspan
+               style="font-size:medium"
+               id="tspan8682">. It would be convenient, but groups also move things </tspan></tspan><tspan
              x="1781.902"
              y="464.05832"
-             id="tspan20059">into one layer.</tspan></text>
+             id="tspan8688"><tspan
+               style="font-size:medium"
+               id="tspan8686">into one layer.</tspan></tspan></text>
       </g>
     </g>
     <text
@@ -12668,6 +12779,12 @@
        y="612.60724"
        rx="1.0268555"
        ry="1.0268555" />
+    <circle
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:0.299998;stroke-linejoin:round;shape-rendering:crispEdges;stop-color:#000000"
+       id="circle30778"
+       cx="2481.8218"
+       cy="534.82477"
+       r="5.9500003" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12724,6 +12841,24 @@
        cx="254.20346"
        cy="95.179855"
        r="10.754221" />
+    <g
+       id="circle12123-8"
+       transform="translate(10.675202,-16.808776)">
+      <path
+         style="color:#000000;fill:#ffffff;fill-opacity:0;stroke-width:0.3;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+         d="m 430.82281,104.73407 a 5.3499999,5.3499999 0 0 1 -5.35,5.35 5.3499999,5.3499999 0 0 1 -5.35,-5.35 5.3499999,5.3499999 0 0 1 5.35,-5.35 5.3499999,5.3499999 0 0 1 5.35,5.35 z"
+         id="path13396" />
+      <path
+         style="color:#000000;fill:#0000ff;stroke-linejoin:round;-inkscape-stroke:none;shape-rendering:crispEdges"
+         d="m 425.47266,99.234375 c -3.03579,0 -5.5,2.464215 -5.5,5.500005 0,3.03578 2.46421,5.5 5.5,5.5 3.03578,0 5.5,-2.46422 5.5,-5.5 0,-3.03579 -2.46422,-5.500005 -5.5,-5.500005 z m 0,0.298828 c 2.87365,0 5.19921,2.327517 5.19921,5.201177 0,2.87365 -2.32556,5.19921 -5.19921,5.19921 -2.87366,0 -5.19922,-2.32556 -5.19922,-5.19921 0,-2.87366 2.32556,-5.201177 5.19922,-5.201177 z"
+         id="path13398" />
+    </g>
+    <circle
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:0;stroke:#0000ff;stroke-width:0.3;stroke-linejoin:round;shape-rendering:crispEdges;stop-color:#000000"
+       id="circle16316"
+       cx="405.33246"
+       cy="88.98243"
+       r="9.450222" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -15458,6 +15593,67 @@
          y="441.90686"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.95;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=600,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:'wdth' 90, 'wght' 600;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
          id="tspan3690-5">SMALL 12pt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.95;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=600,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 600;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       x="2425.8088"
+       y="456.81299"
+       id="text30784"><tspan
+         sodipodi:role="line"
+         x="2425.8088"
+         y="456.81299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.95;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=600,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 600;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="tspan30780">ANTI-ICE</tspan><tspan
+         sodipodi:role="line"
+         x="2425.8088"
+         y="462.1752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:0.95;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=600,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 600;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="tspan30782" /></text>
+    <g
+       id="g30794"
+       transform="translate(305.99853,-212.17195)"
+       style="display:inline;opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=700,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 700;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         x="2136.6882"
+         y="678.49323"
+         id="text30788"><tspan
+           sodipodi:role="line"
+           x="2136.6882"
+           y="678.49323"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=700,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 700;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="tspan30786">ON</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=700,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 700;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         x="2136.7979"
+         y="687.25098"
+         id="text30792"><tspan
+           sodipodi:role="line"
+           x="2136.7979"
+           y="687.25098"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, @wght=700,wdth=90.0';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-variation-settings:'wdth' 90, 'wght' 700;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+           id="tspan30790">OFF</tspan></text>
+    </g>
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:0;stroke:#ff0000;stroke-width:0.204792;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect30822"
+       width="6.2952075"
+       height="18.795208"
+       x="2422.697"
+       y="459.79968"
+       rx="3.1476038"
+       ry="3.1476038" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.800283;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect33824"
+       width="9.1997185"
+       height="22.199717"
+       x="2421.2446"
+       y="458.09741"
+       rx="4.5998592"
+       ry="4.5998592" />
   </g>
   <g
      inkscape:groupmode="layer"

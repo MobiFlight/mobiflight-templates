@@ -2,11 +2,12 @@
 
 ### Because you need something to hold your panels when you fly.
 
-This is a simple side console that can sit next to you, and where you can moutn your panels
-and have the usb hub, extension cord, and your wiring nicely contained.
+This is a simple side console that can sit next to you, and where you can mount your panels
+and have the usb hub, extension cord, and your wiring nicely contained within.
 
-It is intended to be cut with a large size CO2 laser, out of 9mm MDF. Many hackerspaces 
-ave such machines, so that is one option perhaps worth checking out.
+The pedestal is intended to be cut with a large size CO2 laser, out of 9mm MDF sheet. 
+Many hackerspaces in the maker community have such machines available for members,
+so that is one option worth checking out.
 
 ![image](https://user-images.githubusercontent.com/2587818/143945517-fcf64aab-feea-4dbf-a094-b10798289490.png)
 

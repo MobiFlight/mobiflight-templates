@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="10.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8118684"
+     inkscape:cx="78.214647"
+     inkscape:cy="335.02967"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect82"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.5812617,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.5427703,0,1 @ F,0,0,1,0,5.6582447,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.6197532,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.5427703,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.6967362,0,1 @ F,0,0,1,0,5.5427703,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.5427703,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect5611"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.7656251,0,1 @ F,0,0,1,0,5.7812499,0,1 @ F,0,0,1,0,5.8125001,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.8437501,0,1 @ F,0,0,1,0,5.7812501,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect66296"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect66155"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7232"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.8125001,0,1 @ F,0,0,1,0,5.8437501,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.8281251,0,1 @ F,0,0,1,0,5.8750001,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.7968751,0,1 @ F,0,0,1,0,5.833631,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect7026"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect6989"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4601"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4564"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.7673398,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.8359376,0,1 @ F,0,0,1,0,5.7673398,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4449"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3048"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.7968751,0,1 @ F,0,0,1,0,5.921875,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,5.8446796,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,5.8446796,0,1"
+       unit="mm"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3008"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.0999995;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect890"
+       width="145.95"
+       height="95.150002"
+       x="0.0499998"
+       y="0.050000001"
+       ry="0.70000005"
+       rx="0.69999999" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.0999997;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222"
+       cx="4.7625003"
+       cy="4.7624998"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0"
+       cx="4.7625003"
+       cy="14.2875"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2"
+       cx="4.7625003"
+       cy="23.8125"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0"
+       cx="4.7625003"
+       cy="33.337498"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8"
+       cx="4.7625003"
+       cy="42.862503"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4"
+       cx="4.7625003"
+       cy="52.387501"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-8"
+       cx="4.7625003"
+       cy="61.912502"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-8-9"
+       cx="4.7625003"
+       cy="71.4375"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-9"
+       cx="4.7625003"
+       cy="80.962502"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-9"
+       cx="4.7625003"
+       cy="90.487503"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.0999997;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-1"
+       cx="141.28751"
+       cy="4.7624998"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-5"
+       cx="141.28751"
+       cy="14.2875"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-5"
+       cx="141.28751"
+       cy="23.8125"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-3"
+       cx="141.28751"
+       cy="33.337498"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-2"
+       cx="141.28751"
+       cy="42.862503"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-27"
+       cx="141.28751"
+       cy="52.387501"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-8-5"
+       cx="141.28751"
+       cy="61.912502"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-8-9-1"
+       cx="141.28751"
+       cy="71.4375"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-9-4"
+       cx="141.28751"
+       cy="80.962502"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#00ff00;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-9-9"
+       cx="141.28751"
+       cy="90.487503"
+       r="4.7125001" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-1-6"
+       cx="4.7620001"
+       cy="14.2875"
+       r="3.25" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-1-6-0"
+       cx="141.28799"
+       cy="14.288891"
+       r="3.25" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="102.79063"
+       y="51.72604"
+       id="text34913"><tspan
+         sodipodi:role="line"
+         id="tspan34911"
+         style="stroke-width:0.264583" /></text>
+    <g
+       aria-label="LN-WDJ"
+       id="text18296"
+       style="font-stretch:condensed;font-size:25.0003px;line-height:1.25;font-family:'Franklin Gothic Medium Cond';-inkscape-font-specification:'Franklin Gothic Medium Cond Condensed';text-align:center;text-anchor:middle;stroke-width:0.264583" />
+    <path
+       id="rect890-5"
+       style="fill:none;stroke:#00ffff;stroke-width:0.37795;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 9.4003906,3.2128906 c -3.4275268,0 -6.1875,2.5029987 -6.1875,5.6113282 V 24.610144 a 5.5812617,5.5812617 45 0 0 5.5812617,5.581262 h 9.0144417 v 0.0059 c 0.06314,-0.0029 0.126292,-0.0055 0.189453,-0.0078 C 31.148119,30.189769 41.808301,40.849928 41.808594,54 41.808331,67.150093 31.14814,77.810284 17.998047,77.810547 c -0.06316,-0.0023 -0.126313,-0.0049 -0.189453,-0.0078 v 0.0098 H 8.7556609 a 5.5427703,5.5427703 135 0 0 -5.5427703,5.54277 V 276.53317 a 5.6582447,5.6582447 45 0 0 5.6582447,5.65824 h 8.9374587 v 0.006 c 0.06314,-0.003 0.126292,-0.006 0.189453,-0.008 13.15011,2.6e-4 23.810307,10.66048 23.810547,23.81059 -2.62e-4,13.15009 -10.660453,23.81029 -23.810547,23.81055 -0.06316,-0.002 -0.126313,-0.005 -0.189453,-0.008 v 0.01 H 8.8326438 a 5.6197532,5.6197532 135 0 0 -5.6197532,5.61975 l 0,15.74353 c 0,3.10833 2.7599732,5.61133 6.1875,5.61133 H 542.59961 c 3.42753,0 6.1875,-2.503 6.1875,-5.61133 v -15.82056 a 5.5427703,5.5427703 45 0 0 -5.54277,-5.54277 h -9.05293 v -0.006 c -0.0638,0.003 -0.1276,0.006 -0.19141,0.008 -13.15009,-2.6e-4 -23.81028,-10.66045 -23.81055,-23.81054 2.6e-4,-13.1501 10.66045,-23.81029 23.81055,-23.81055 0.0638,4.1e-4 0.12761,0.001 0.19141,0.002 v -0.004 h 8.89896 a 5.6967362,5.6967362 135 0 0 5.69674,-5.69674 V 83.35527 a 5.5427703,5.5427703 45 0 0 -5.54277,-5.54277 h -9.05293 v -0.0059 c -0.0638,0.0029 -0.1276,0.0055 -0.19141,0.0079 C 520.84991,77.814191 510.18971,67.154 510.18945,54.003906 510.18971,40.853812 520.84991,30.193621 534,30.193359 c 0.0638,4.1e-4 0.12761,0.0011 0.19141,0.002 v -0.0039 l 9.05293,0 a 5.5427703,5.5427703 135 0 0 5.54277,-5.54277 V 8.8242188 c 0,-3.1083295 -2.75997,-5.6113282 -6.1875,-5.6113282 z"
+       transform="scale(0.26458333)"
+       inkscape:path-effect="#path-effect82"
+       inkscape:original-d="m 9.4003906,3.2128906 c -3.4275268,0 -6.1875,2.5029987 -6.1875,5.6113282 V 30.191406 H 17.808594 v 0.0059 a 23.811024,23.811024 0 0 1 0.189453,-0.0078 A 23.811024,23.811024 0 0 1 41.808594,54 23.811024,23.811024 0 0 1 17.998047,77.810547 a 23.811024,23.811024 0 0 1 -0.189453,-0.0078 v 0.0098 H 3.2128906 V 282.19141 H 17.808594 v 0.006 a 23.811024,23.811024 0 0 1 0.189453,-0.008 A 23.811024,23.811024 0 0 1 41.808594,306 a 23.811024,23.811024 0 0 1 -23.810547,23.81055 23.811024,23.811024 0 0 1 -0.189453,-0.008 v 0.01 H 3.2128906 v 21.36328 c 0,3.10833 2.7599732,5.61133 6.1875,5.61133 H 542.59961 c 3.42753,0 6.1875,-2.503 6.1875,-5.61133 V 329.8125 h -14.5957 v -0.006 A 23.811024,23.811024 0 0 1 534,329.81445 23.811024,23.811024 0 0 1 510.18945,306.00391 23.811024,23.811024 0 0 1 534,282.19336 a 23.811024,23.811024 0 0 1 0.19141,0.002 v -0.004 h 14.5957 V 77.8125 h -14.5957 V 77.8066 A 23.811024,23.811024 0 0 1 534,77.814453 23.811024,23.811024 0 0 1 510.18945,54.003906 23.811024,23.811024 0 0 1 534,30.193359 a 23.811024,23.811024 0 0 1 0.19141,0.002 v -0.0039 h 14.5957 V 8.8242188 c 0,-3.1083295 -2.75997,-5.6113282 -6.1875,-5.6113282 z" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-1-6-1"
+       cx="4.761919"
+       cy="80.962502"
+       r="3.25" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1222-0-2-0-8-4-1-6-0-7"
+       cx="141.28792"
+       cy="80.96389"
+       r="3.25" />
+  </g>
+</svg>

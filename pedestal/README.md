@@ -25,3 +25,9 @@ Since obtaining or machining real DZUS mounting rails is considerably more diffi
 contains laser cut rails that are to be made of 8mm plywood, and the holes are also cut with the
 laser. While this is a joke of a mounting rail, in practice it works just fine if you use wood screws to 
 mount your panels on the pedestal.
+
+Test printing a few holes first and adjust hole size 
+if needed to fit your screws to get a good grip without 
+delaminating the plywood, as the holes are pretty close 
+together.
+
